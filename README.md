@@ -16,4 +16,4 @@
 - docker images
 - docker ps
 - docker restart core-api-container  # (core-api-container) --> container_name
-
+- docker-compose stop
